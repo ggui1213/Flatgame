@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 6c65c3ea8738d427cb086558fd9b0706
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5306689891126732222
+    second: words5_0
+  - first:
+      213: -3961048635324355033
+    second: words5_1
+  - first:
+      213: 2604919858705617506
+    second: words5_2
+  - first:
+      213: -3428231588078817585
+    second: words5_3
+  - first:
+      213: -6859550509490123660
+    second: words5_4
+  - first:
+      213: 4660527942152500759
+    second: words5_5
+  - first:
+      213: -7706373576145040002
+    second: words5_6
+  - first:
+      213: 3283853230072349474
+    second: words5_7
+  - first:
+      213: 3194019056754748080
+    second: words5_8
+  - first:
+      213: -2066960297874394263
+    second: words5_9
+  - first:
+      213: -1273427115431777165
+    second: words5_10
+  - first:
+      213: -2739371980771695295
+    second: words5_11
+  - first:
+      213: 4990156704232481355
+    second: words5_12
+  - first:
+      213: 1783188608659362509
+    second: words5_13
+  - first:
+      213: 4917806489468846385
+    second: words5_14
+  - first:
+      213: 4541047197326220953
+    second: words5_15
+  - first:
+      213: 2022356989286049400
+    second: words5_16
+  - first:
+      213: -4250243363804184266
+    second: words5_17
+  - first:
+      213: -7340269634902507166
+    second: words5_18
+  - first:
+      213: 3213532780064725185
+    second: words5_19
+  - first:
+      213: -498512469469438333
+    second: words5_20
+  - first:
+      213: 6628755588843431118
+    second: words5_21
+  - first:
+      213: -2305857152931778319
+    second: words5_22
+  - first:
+      213: 3447723507674967743
+    second: words5_23
+  - first:
+      213: 8311924152654304911
+    second: words5_24
+  - first:
+      213: -5968493950341519900
+    second: words5_25
+  - first:
+      213: -4162171032070142425
+    second: words5_26
+  - first:
+      213: 3014905564480670616
+    second: words5_27
+  - first:
+      213: -7042478767155991175
+    second: words5_28
+  - first:
+      213: -7741581859085684987
+    second: words5_29
+  - first:
+      213: 7769894705787281761
+    second: words5_30
+  - first:
+      213: -8908418183289242636
+    second: words5_31
+  - first:
+      213: -5141993381334623934
+    second: words5_32
+  - first:
+      213: 6400452432865732932
+    second: words5_33
+  - first:
+      213: -4596370483749040198
+    second: words5_34
+  - first:
+      213: 7697663058624445045
+    second: words5_35
+  - first:
+      213: -1112089093359613041
+    second: words5_36
+  - first:
+      213: 4582115510987652655
+    second: words5_37
+  - first:
+      213: 6132146316806481092
+    second: words5_38
+  - first:
+      213: 3593336616991567442
+    second: words5_39
+  - first:
+      213: 414498318854340277
+    second: words5_40
+  - first:
+      213: -475626757057620635
+    second: words5_41
+  - first:
+      213: 3213224393982813875
+    second: words5_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 325, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: words5_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e3c5075625a940800000000000000
+      internalID: 5306689891126732222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e2271b0478709c0800000000000000
+      internalID: -3961048635324355033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262528e5fc8862420800000000000000
+      internalID: 2604919858705617506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee9c0c8897c60d0800000000000000
+      internalID: -3428231588078817585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ccdf2b72bfdc0a0800000000000000
+      internalID: -6859550509490123660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71638c988758da040800000000000000
+      internalID: 4660527942152500759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0b6700167d0590800000000000000
+      internalID: -7706373576145040002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234bf83d17929d20800000000000000
+      internalID: 3283853230072349474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 12
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae1b3d86f635c20800000000000000
+      internalID: 3194019056754748080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 11
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637c507f8ea053e0800000000000000
+      internalID: -2066960297874394263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ca65119c0e35ee0800000000000000
+      internalID: -1273427115431777165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 11
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145e17282bbcbf9d0800000000000000
+      internalID: -2739371980771695295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42af416519904540800000000000000
+      internalID: 4990156704232481355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc21aa287982fb810800000000000000
+      internalID: 1783188608659362509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 12
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131c6ee42fe8f3440800000000000000
+      internalID: 4917806489468846385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 11
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e99e0dd5a050f30800000000000000
+      internalID: 4541047197326220953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 12
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8766c6387fad01c10800000000000000
+      internalID: 2022356989286049400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318d7bed2a1405c0800000000000000
+      internalID: -4250243363804184266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cc0058af122a90800000000000000
+      internalID: -7340269634902507166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_19
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 11
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8d4d59903c89c20800000000000000
+      internalID: 3213532780064725185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_20
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 41
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38edb2ddc8de419f0800000000000000
+      internalID: -498512469469438333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_21
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 11
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e5ef56121efb50800000000000000
+      internalID: 6628755588843431118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f035b8e223ffffd0800000000000000
+      internalID: -2305857152931778319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 11
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeeabe6346c8df20800000000000000
+      internalID: 3447723507674967743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 11
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8613f67af2e95370800000000000000
+      internalID: 8311924152654304911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_25
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 11
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e563d5ef56ab2da0800000000000000
+      internalID: -5968493950341519900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726c90b9f7ffc36c0800000000000000
+      internalID: -4162171032070142425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_27
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 11
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b083223a817d920800000000000000
+      internalID: 3014905564480670616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 12
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97daf69bfd6144e90800000000000000
+      internalID: -7042478767155991175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 11
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe699d050609490800000000000000
+      internalID: -7741581859085684987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_30
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 11
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161a3a8711634db60800000000000000
+      internalID: 7769894705787281761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_31
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 12
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf9627cd0fe5480800000000000000
+      internalID: -8908418183289242636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_32
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 11
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d32c5348f3a8b0800000000000000
+      internalID: -5141993381334623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_33
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 11
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4492fbe9399f2d850800000000000000
+      internalID: 6400452432865732932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4c0cc5696630c0800000000000000
+      internalID: -4596370483749040198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 12
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af4f194c793da60800000000000000
+      internalID: 7697663058624445045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 12
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bc6b79cd01190f0800000000000000
+      internalID: -1112089093359613041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_37
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 12
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef938b7c1f69f30800000000000000
+      internalID: 4582115510987652655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_38
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 4
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c468fbe592c91550800000000000000
+      internalID: 6132146316806481092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 12
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eaf266d981ed130800000000000000
+      internalID: 3593336616991567442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 12
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3f4f560890c500800000000000000
+      internalID: 414498318854340277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_41
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 11
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565d8e30cfb3669f0800000000000000
+      internalID: -475626757057620635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: words5_42
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 11
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b627fadf8aa79c20800000000000000
+      internalID: 3213224393982813875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      words5_0: 5306689891126732222
+      words5_1: -3961048635324355033
+      words5_10: -1273427115431777165
+      words5_11: -2739371980771695295
+      words5_12: 4990156704232481355
+      words5_13: 1783188608659362509
+      words5_14: 4917806489468846385
+      words5_15: 4541047197326220953
+      words5_16: 2022356989286049400
+      words5_17: -4250243363804184266
+      words5_18: -7340269634902507166
+      words5_19: 3213532780064725185
+      words5_2: 2604919858705617506
+      words5_20: -498512469469438333
+      words5_21: 6628755588843431118
+      words5_22: -2305857152931778319
+      words5_23: 3447723507674967743
+      words5_24: 8311924152654304911
+      words5_25: -5968493950341519900
+      words5_26: -4162171032070142425
+      words5_27: 3014905564480670616
+      words5_28: -7042478767155991175
+      words5_29: -7741581859085684987
+      words5_3: -3428231588078817585
+      words5_30: 7769894705787281761
+      words5_31: -8908418183289242636
+      words5_32: -5141993381334623934
+      words5_33: 6400452432865732932
+      words5_34: -4596370483749040198
+      words5_35: 7697663058624445045
+      words5_36: -1112089093359613041
+      words5_37: 4582115510987652655
+      words5_38: 6132146316806481092
+      words5_39: 3593336616991567442
+      words5_4: -6859550509490123660
+      words5_40: 414498318854340277
+      words5_41: -475626757057620635
+      words5_42: 3213224393982813875
+      words5_5: 4660527942152500759
+      words5_6: -7706373576145040002
+      words5_7: 3283853230072349474
+      words5_8: 3194019056754748080
+      words5_9: -2066960297874394263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
